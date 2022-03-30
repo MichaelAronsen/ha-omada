@@ -10,7 +10,7 @@ from .known_clients import KnownClients
 
 LOGGER = logging.getLogger(__name__)
 
-API_PATH = "/api/v2"
+API_PATH = "/api"
 
 
 class Controller:
